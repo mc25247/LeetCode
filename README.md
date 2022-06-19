@@ -1,2 +1,2 @@
 # LeetCode
-Grind 75 Tool and NeetCode progress
+Grind 75 Tool and NeetCode
